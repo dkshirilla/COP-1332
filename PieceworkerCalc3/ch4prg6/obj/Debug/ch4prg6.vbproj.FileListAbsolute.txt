@@ -1,0 +1,112 @@
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\bin\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\bin\Debug\ch4prg6.pdb
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\bin\Debug\ch4prg6.xml
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\dshirilla.ACADEMIC\Downloads\ch4prg6\ch4prg6\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.exe
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.xml
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6DouglasShirilla (1)\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6DouglasShirilla (1)\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6DouglasShirilla (1)\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6DouglasShirilla (1)\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.pdb
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\bin\Debug\ch4prg6.xml
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\dshirilla.ACADEMIC\Desktop\ch4prg6-Ch5prg1DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6DouglasShirilla\ch4prg6\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.pdb
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.xml
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\dshirilla.ACADEMIC\Desktop\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.pdb
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.xml
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.SplashScreen1.resources
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\dshirilla\Downloads\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.AboutBox1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.xml
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.AboutBox1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.SplashScreen1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.SummaryForm.resources
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.AboutBox1.resources
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.SplashScreen1.resources
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.SummaryForm.resources
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.pdb
+C:\Users\dshirilla.ACADEMIC\Downloads\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch6Prg5DouglasShirilla\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.xml
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.exe
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\bin\Debug\ch4prg6.xml
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.AboutBox1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Form1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.Resources.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.SplashScreen1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.SummaryForm.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.vbproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch5Prg1DouglasShirilla\ch4prg6\obj\Debug\ch4prg6.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\PieceworkerCalc3\ch4prg6\bin\Debug\ch4prg6.exe.config
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\PieceworkerCalc3\ch4prg6\obj\Debug\ch4prg6.exe
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\PieceworkerCalc3\ch4prg6\obj\Debug\ch4prg6.xml
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\PieceworkerCalc3\ch4prg6\obj\Debug\ch4prg6.pdb
