@@ -1,0 +1,33 @@
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.exe.config
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.vbprojResolveAssemblyReference.cache
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.Form1.resources
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.Resources.resources
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.vbproj.GenerateResource.Cache
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.exe
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.pdb
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.xml
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.exe
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.xml
+c:\myprojects\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.exe.config
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.exe
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.xml
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.exe
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.xml
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.vbprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.Form1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.Resources.resources
+C:\Users\Douglas\Desktop\School\COP 1332\visual_basic_programs\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.vbproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.exe.config
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.exe
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.xml
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.exe
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\bin\Debug\CH1PRGMDOUGS.xml
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.vbprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.Form1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.Resources.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\CH1PRGMDOUGS\CH1PRGMDOUGS\CH1PRGMDOUGS\obj\Debug\CH1PRGMDOUGS.vbproj.GenerateResource.Cache
