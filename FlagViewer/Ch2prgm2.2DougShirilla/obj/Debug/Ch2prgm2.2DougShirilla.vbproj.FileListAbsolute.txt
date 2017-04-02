@@ -1,0 +1,33 @@
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.exe.config
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.vbprojResolveAssemblyReference.cache
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2._2DougShirilla.Resources.resources
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.vbproj.GenerateResource.Cache
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.xml
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.exe
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.pdb
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.xml
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2._2DougShirilla.Form1.resources
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.exe
+c:\myprojects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.pdb
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.exe.config
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.exe
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.xml
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.pdb
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.exe
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.pdb
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.xml
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.vbprojResolveAssemblyReference.cache
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2._2DougShirilla.Form1.resources
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2._2DougShirilla.Resources.resources
+C:\Users\dshirilla.ACADEMIC.000\Downloads\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.vbproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.exe.config
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.exe
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.pdb
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\bin\Debug\Ch2prgm2.2DougShirilla.xml
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.vbprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2._2DougShirilla.Form1.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2._2DougShirilla.Resources.resources
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.vbproj.GenerateResource.Cache
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.exe
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.xml
+C:\Users\Douglas\Desktop\School\COP 1332\Projects\Ch2prgm2.2DougShirilla\Ch2prgm2.2DougShirilla\obj\Debug\Ch2prgm2.2DougShirilla.pdb

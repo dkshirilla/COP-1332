@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ch2prgm2.2DougShirilla
+</name>
+</assembly>
+<members>
+<member name="T:Ch2prgm2._2DougShirilla.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Ch2prgm2._2DougShirilla.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Ch2prgm2._2DougShirilla.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Ch2prgm2._2DougShirilla.My.Resources.Resources._51ak_nVSwQL__SX425_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ch2prgm2._2DougShirilla.My.Resources.Resources.IREL0001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ch2prgm2._2DougShirilla.My.Resources.Resources.POLA0001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ch2prgm2._2DougShirilla.My.Resources.Resources.RUSS0001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ch2prgm2._2DougShirilla.My.Resources.Resources.UNST0001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
